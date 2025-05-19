@@ -1,0 +1,6 @@
+1. Pandas- To Handle Data Structures
+2. Train and Test Split from Sklearn.model_selection- To splitting up the data for Training and Testing
+3. RandomForestClassifier from sklearn.ensemble- Model Selection
+4. classification_report, confusion_matrix, roc_auc_score, roc_curve from sklearn.metrics- To Evaluate Metrics
+5. SMOTE from imblearn.over_sampling- To balance the Data
+6. Matplotlib.pyplot- For Data Visualization
