@@ -1,2 +1,2 @@
 # Projects
-Industry_Anomaly_Detection
+"A machine learning model to detect equipment anomalies using sensor data"
