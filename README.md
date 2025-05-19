@@ -1,5 +1,5 @@
 
-# Industrial Anomaly Detection 🚧
+# industrial-anomaly-detection 🚧
 
 A machine learning project to detect anomalies in industrial sensor data using supervised learning.
 
